@@ -1,0 +1,11 @@
+tbody td {
+  width: 25%;
+}
+tbody img {
+  width: 20%;
+}
+.total{
+  width: 95%;
+  text-align: right;
+}
+
